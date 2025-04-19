@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/mahmoudalserhi/mahmoudalserhi/main/YOUR_BANNER_FILENAME.png](https://github.com/mahmoud-alserhi/mahmoud-alserhi/blob/main/Mahmoud%20GitHub.png)" alt="Mahmoud Maher Alserhi Banner" />
+  <img src="https://github.com/mahmoud-alserhi/mahmoud-alserhi/blob/main/Mahmoud%20GitHub.png" alt="Mahmoud Maher Alserhi Banner" />
 </p>
 
 # 👋 Hey there! I'm Mahmoud Maher Alserhi
