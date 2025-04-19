@@ -5,7 +5,7 @@
 
 # 👋 Hey there! I'm Mahmoud Maher Alserhi
 
-I'm a Flutter Developer from Gaza, Palestine 🇵🇸 with over 3 years of experience building fast, scalable, and user-friendly mobile applications. I love turning ideas into reality through clean code and intuitive design.
+I'm a Flutter Developer from Gaza, Palestine 🇵🇸 with over 4 years of experience building fast, scalable, and user-friendly mobile applications. I love turning ideas into reality through clean code and intuitive design.
 
 ---
 
@@ -74,13 +74,14 @@ Real-time chat app with Firebase backend and push notifications.
 ### 🤝 Let's Connect
 
 - 📧 Email: [mahmoudalserhi@gmail.com](mailto:mahmoudalserhi@gmail.com)  
-- 🌍 Address: Gaza, Central, Al-Zawaida, near Al-Zawaida Club  
+- 🌍 Address: Gaza, Palestine 
 - 💬 WhatsApp: [+972592659279](https://wa.me/972592659279)  
 - 🔗 LinkedIn: [linkedin.com/in/mahmoudalserhi](https://www.linkedin.com/in/mahmoudalserhi/)  
 - 🌐 Portfolio: [github-portfolio](https://github.com/mahmoud-alserhi)
 
 ---
 
-> _“The best code is the one you don't have to explain.”_
+> _“Code is like humor. When you have to explain it, it’s bad.”_
 
-Thanks for stopping by! 👋
+Thanks for visiting! 👋
+Let's build something great together!
