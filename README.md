@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/mahmoud-alserhi/mahmoud-alserhi/blob/main/Mahmoud%20GitHub.png" alt="Mahmoud Maher Alserhi Banner" />
+  <img src="https://github.com/mahmoud-alserhi/mahmoud-alserhi/blob/main/ChatGPT%20Image%20Jun%2026%2C%202025%2C%2002_46_40%20PM.png" alt="Mahmoud Maher Alserhi Banner" />
 </p>
 
 # 👋 Hey there! I'm Mahmoud Maher Alserhi
