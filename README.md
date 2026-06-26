@@ -81,7 +81,7 @@ Real-time chat app with Firebase backend and push notifications.
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_
+> _“I put love into Action”_
 
 Thanks for visiting! 👋
 Let's build something great together!
