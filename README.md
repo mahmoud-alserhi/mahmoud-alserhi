@@ -5,17 +5,18 @@
 
 # 👋 Hey there! I'm Mahmoud Maher Alserhi
 
-I'm a Flutter Developer from Gaza, Palestine 🇵🇸 with over 4 years of experience building fast, scalable, and user-friendly mobile applications. I love turning ideas into reality through clean code and intuitive design.
+I'm a Flutter Developer from Gaza, Palestine 🇵🇸 with over 4 years of experience building fast, scalable, and user-friendly mobile applications. I love turning ideas into reality through clean code, thoughtful UI, and AI-powered experiences.
 
 ---
 
 ### 💼 What I Do
 
-I specialize in cross-platform mobile development using **Flutter & Firebase**. My work spans full-stack mobile solutions, UI/UX design, backend integration, and clean architecture.
+I specialize in cross-platform mobile development using **Flutter & Firebase**. My work spans full-stack mobile solutions, UI/UX design, backend integration, clean architecture, and AI integrations.
 
-**What I’m good at:**
+**What I'm good at:**
 - 📱 Flutter & Dart
 - ☁️ Firebase (Auth, Firestore, Storage, Messaging)
+- 🤖 AI Integration (LLM APIs, intelligent features, chat experiences)
 - 🔗 RESTful APIs
 - 🧠 State Management (Provider, Riverpod, GetX)
 - 📦 Modular Architecture
@@ -26,39 +27,36 @@ I specialize in cross-platform mobile development using **Flutter & Firebase**. 
 ### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🛍️ [SmartShop](https://github.com/mahmoudalserhi/smartshop)
-E-commerce app with Firebase Auth, product filters, cart system, and payment gateway.
+#### 🕌 [Islamy](https://github.com/mahmoud-alserhi/islamy_project)
+A Flutter Islamic application project written in Dart.
 
-#### 📘 [EduHub](https://github.com/mahmoudalserhi/eduhub)
-An educational app with courses, video content, quizzes, and user progress.
-
-#### 💬 [ChatWave](https://github.com/mahmoudalserhi/chatwave)
-Real-time chat app with Firebase backend and push notifications.
+#### 🌤️ [Weather](https://github.com/mahmoud-alserhi/weather)
+A Flutter application for viewing weather information.
 
 ---
 
 ### 📊 GitHub Stats
 
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudalserhi&show_icons=true&theme=default)
+![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoud-alserhi&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudalserhi&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-alserhi&layout=compact)
 
 ---
 
 ### 📈 Contribution Graph
 
-[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmoudalserhi&bg_color=ffffff&color=007acc&line=00d4ff&point=007acc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmoud-alserhi&bg_color=ffffff&color=007acc&line=00d4ff&point=007acc&area=true&hide_border=true)](https://github.com/mahmoud-alserhi)
 
 ---
 
@@ -73,15 +71,16 @@ Real-time chat app with Firebase backend and push notifications.
 
 ### 🤝 Let's Connect
 
-- 📧 Email: [mahmoudalserhi@gmail.com](mailto:mahmoudalserhi@gmail.com)  
-- 🌍 Address: Gaza, Palestine 
-- 💬 WhatsApp: [+972592659279](https://wa.me/972592659279)  
-- 🔗 LinkedIn: [linkedin.com/in/mahmoudalserhi](https://www.linkedin.com/in/mahmoudalserhi/)  
-- 🌐 Portfolio: [github-portfolio](https://github.com/mahmoud-alserhi)
+- 📧 Email: [mahmoudalserhi@gmail.com](mailto:mahmoudalserhi@gmail.com)
+- 🌍 Address: Gaza, Palestine
+- 💬 WhatsApp: [+972592659279](https://wa.me/972592659279)
+- 🔗 LinkedIn: [linkedin.com/in/mahmoudalserhi](https://www.linkedin.com/in/mahmoudalserhi/)
+- 🌐 Portfolio: [github.com/mahmoud-alserhi](https://github.com/mahmoud-alserhi)
 
 ---
 
 > _“I put love into Action”_
 
 Thanks for visiting! 👋
+
 Let's build something great together!
